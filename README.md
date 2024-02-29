@@ -5,9 +5,9 @@ This Python script demonstrates color object detection using OpenCV. The script 
 - Using these defined ranges, the script creates masks to identify regions of the image that correspond to the specified colors.
 
 - Contours are then found within this combined mask, which helps identify the areas of interest in the image.
-- Finally drawing white detection rectangles around the identified contours, effectively framing the parts of the image that contain the specified red and green colors.
+- Finally drawing red and green detection rectangles around the identified contours, effectively framing the parts of the image that contain the specified red and green colors.
 
 The resulting image is displayed, showing the original image with white rectangles framing the detected red and green regions.
 
-<img src="assignmentpic.jpg" width="400">
-<img src="framed.png" width="400">
+<img src="peppers.png" width="400">
+<img src="framed2.jpg" width="400">
