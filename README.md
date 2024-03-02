@@ -1,4 +1,4 @@
-## Color Object Detection with OpenCV
+## Colored Image Segmentation with OpenCV
 
 Image segmentation is a fundamental task in computer vision that involves partitioning an image into multiple segments or regions to simplify its representation and facilitate analysis. 
 This Python script demonstrates color object detection using OpenCV. The script loads an image, converts it to the RGB color space, and then to the HSV color space. It defines specific ranges for red and green hues in the HSV color space.
